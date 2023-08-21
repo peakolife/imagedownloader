@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imgdownloader", "imagedownloader\imgdownloader.csproj", "{E964AAD7-BC40-4412-B88F-1EB03B13446E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPageDownloader", "downloaderimage\WebPageDownloader.csproj", "{E2BDD09A-FD53-4696-A7D3-054B6E9FA735}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "downloadSrcWebsite", "downloadSrcWebsite\downloadSrcWebsite.csproj", "{E78995C1-188C-4DF5-AA63-1DE73BBE6942}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imageDownloadAyyildiz", "imageDownloadAyyildiz\imageDownloadAyyildiz.csproj", "{6882DCAA-ECEF-4A5E-81A0-1A2F48309C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webPageImageDownloaderConsole", "webPageImageDownloaderConsole\webPageImageDownloaderConsole.csproj", "{6FF9D527-8C68-473D-9856-683C515B56F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E964AAD7-BC40-4412-B88F-1EB03B13446E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E964AAD7-BC40-4412-B88F-1EB03B13446E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E964AAD7-BC40-4412-B88F-1EB03B13446E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E964AAD7-BC40-4412-B88F-1EB03B13446E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BDD09A-FD53-4696-A7D3-054B6E9FA735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BDD09A-FD53-4696-A7D3-054B6E9FA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BDD09A-FD53-4696-A7D3-054B6E9FA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BDD09A-FD53-4696-A7D3-054B6E9FA735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78995C1-188C-4DF5-AA63-1DE73BBE6942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78995C1-188C-4DF5-AA63-1DE73BBE6942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78995C1-188C-4DF5-AA63-1DE73BBE6942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78995C1-188C-4DF5-AA63-1DE73BBE6942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6882DCAA-ECEF-4A5E-81A0-1A2F48309C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6882DCAA-ECEF-4A5E-81A0-1A2F48309C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6882DCAA-ECEF-4A5E-81A0-1A2F48309C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6882DCAA-ECEF-4A5E-81A0-1A2F48309C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF9D527-8C68-473D-9856-683C515B56F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF9D527-8C68-473D-9856-683C515B56F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF9D527-8C68-473D-9856-683C515B56F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF9D527-8C68-473D-9856-683C515B56F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C49BF41E-35FD-436D-A42C-F25B94DB2064}
+	EndGlobalSection
+EndGlobal
